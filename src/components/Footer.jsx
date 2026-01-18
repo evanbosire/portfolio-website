@@ -1,7 +1,9 @@
 import {
   Mail,
   Phone,
-  MapPin
+  MapPin,
+  Linkedin,
+  Twitter,
 } from "lucide-react";
 import { FaInstagram, FaTiktok } from "react-icons/fa";
 
